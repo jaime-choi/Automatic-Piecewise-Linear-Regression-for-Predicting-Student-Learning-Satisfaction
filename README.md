@@ -3,7 +3,7 @@
 📄 [Paper Link (TBU)](https://)
 - Accepted at Intelligence Tutoring System (ITS) 2025
 - Full implementation code and data
-- You can also access our full implementation code with [Colab Notebook](https://colab.research.google.com/drive/1bxO14Q3NLsH3g4PVWPxX6u8Otmgi8yd2).
+- You can also access our full implementation code with [Colab Notebook](https://drive.google.com/file/d/1_eAgWfkXFfBWDgcCdgi4QJjfLNpA7Sjm/view?usp=sharing).
 
 > Although student learning satisfaction has been widely studied, modern techniques such as interpretable machine learning and neural
 networks have not been sufficiently explored. This study demonstrates
