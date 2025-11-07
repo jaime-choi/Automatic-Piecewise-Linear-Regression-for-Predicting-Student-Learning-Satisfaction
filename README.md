@@ -21,6 +21,12 @@ ing educators to customize instructions according to student profiles.
 ## Bibtex & License
 
 ```bash
-@misc{, 
+@inproceedings{choi2025automatic,
+  title={Automatic Piecewise Linear Regression for Predicting Student Learning Satisfaction},
+  author={Choi, Haemin and Nadarajan, Gayathri},
+  booktitle={International Conference on Intelligent Tutoring Systems},
+  pages={73--87},
+  year={2025},
+  organization={Springer}
 }
 ```
