@@ -1,6 +1,6 @@
 # [ITS2025] Automatic-Piecewise-Linear-Regression-for-Predicting-Student-Learning-Satisfaction
 
-📄 [Paper Link (TBU)](https://link.springer.com/chapter/10.1007/978-3-031-98284-2_6)
+📄 [Paper Link](https://link.springer.com/chapter/10.1007/978-3-031-98284-2_6)
 - Accepted at Intelligence Tutoring System (ITS) 2025
 - Full implementation code and data
 - You can also access our full implementation code with [Colab Notebook](https://drive.google.com/file/d/1_eAgWfkXFfBWDgcCdgi4QJjfLNpA7Sjm/view?usp=sharing).
